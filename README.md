@@ -11,7 +11,7 @@
 - Место, где технологии встречаются с творчеством
 
 ## Технологии
-- HTML/CSS/JavaScript
+- HTML/CSS/JavaScript/TypeScript/Supabase
 - Любовь к деталям
 - Чашка кофе 
 
