@@ -283,7 +283,7 @@ const VideosManager: React.FC = () => {
                            focus:ring-1 focus:ring-gray-900 focus:border-gray-900 disabled:opacity-50"
                 />
                 <p className="text-sm text-gray-500 mt-1">
-                  Выберите видеофайл (MP4, WebM, OGG, максимум 100MB)
+                  Выберите видеофайл (MP4, WebM, OGG, максимум 200MB)
                 </p>
                 
                 {formData.video_path && (

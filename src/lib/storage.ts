@@ -131,7 +131,7 @@ export const validateFile = (
 ): { valid: boolean; error?: string } => {
   const maxSizes = {
     image: 10 * 1024 * 1024, // 10MB
-    video: 100 * 1024 * 1024  // 100MB
+    video: 200 * 1024 * 1024  // 200MB
   };
 
   const allowedTypes = {
@@ -142,7 +142,7 @@ export const validateFile = (
   if (file.size > maxSizes[type]) {
     return {
       valid: false,
-      error: `Файл слишком большой. Максимальный размер: ${type === 'image' ? '10MB' : '100MB'}`
+      error: `Файл слишком большой. Максимальный размер: ${type === 'image' ? '10MB' : '200MB'}`
     };
   }
 
