@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         'archivo': ['Archivo', 'sans-serif'],
+        'raleway': ['Raleway', 'sans-serif'],
       },
     },
   },
