@@ -55,7 +55,7 @@ const Header: React.FC<HeaderProps> = ({ onSectionScroll }) => {
             className="flex items-center cursor-pointer"
             onClick={() => handleNavClick('home')}
           >
-            <div className="text-2xl font-archivo font-extralight tracking-[0.2em] text-white">
+            <div className="text-2xl font-archivo font-bold tracking-tight text-white">
               САБИНА МАК
             </div>
           </div>
