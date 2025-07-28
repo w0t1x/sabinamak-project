@@ -20,7 +20,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {/* Brand */}
           <div>
-            <h3 className="text-2xl font-archivo font-thin tracking-widest mb-4">САБИНА МАК</h3>
+            <h3 className="text-2xl font-archivo font-extralight tracking-[0.2em] mb-4">САБИНА МАК</h3>
             <p className="text-gray-300 font-light leading-relaxed">
               «САБИНА МАК» — для тех, кто ценит качество, стремится к гармонии и знает, что настоящая мода начинается с уверенности в себе.
             </p>

@@ -10,7 +10,7 @@ const Hero: React.FC<HeroProps> = ({ onExplore }) => {
     <section className="relative h-screen flex items-center justify-center pt-16 bg-black/30">
       <div className="text-center max-w-4xl mx-auto px-4">
         <div className="mb-8">
-          <h1 className="text-6xl md:text-8xl font-archivo font-thin tracking-widest text-white mb-4 relative z-10">
+          <h1 className="text-6xl md:text-8xl font-archivo font-extralight tracking-[0.3em] text-white mb-4 relative z-10">
             САБИНА МАК
           </h1>
           <div className="w-24 h-px bg-white mx-auto mb-8 relative z-10"></div>

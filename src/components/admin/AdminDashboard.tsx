@@ -86,7 +86,7 @@ const AdminDashboard: React.FC = () => {
             <div className="flex items-center space-x-4">
               <LayoutDashboard className="w-8 h-8 text-gray-900" />
               <div>
-                <h1 className="text-xl font-archivo font-thin tracking-widest text-gray-900">
+                <h1 className="text-xl font-archivo font-extralight tracking-[0.2em] text-gray-900">
                   Админ-панель САБИНА МАК
                 </h1>
               </div>

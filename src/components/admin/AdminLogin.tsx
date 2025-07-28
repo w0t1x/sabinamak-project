@@ -68,7 +68,7 @@ const AdminLogin: React.FC = () => {
             Вход в админ-панель
           </h2>
           <p className="mt-2 text-sm text-gray-600 font-archivo font-black tracking-tight">
-            <span className="font-thin tracking-widest">САБИНА МАК</span> - Управление контентом
+            <span className="font-extralight tracking-[0.2em]">САБИНА МАК</span> - Управление контентом
           </p>
         </div>
 
