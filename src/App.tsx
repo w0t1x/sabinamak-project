@@ -126,7 +126,7 @@ function App() {
       <div className="min-h-screen bg-white relative">
         {/* Fixed Background Image */}
         <div 
-          className="fixed inset-0 bg-cover bg-center bg-no-repeat z-0"
+          className="fixed inset-0 bg-cover bg-top bg-no-repeat z-0"
           style={{
             backgroundImage: `url(${backgroundImage})`,
           }}
